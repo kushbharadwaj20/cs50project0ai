@@ -172,3 +172,8 @@ def neighbors_for_person(person_id):
 
 if __name__ == "__main__":
     main()
+
+pip install submit50
+
+submit50 login
+submit50 kushbharadwaj20/cs50project0ai
